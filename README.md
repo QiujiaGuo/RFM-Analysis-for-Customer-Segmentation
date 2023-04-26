@@ -5,7 +5,7 @@ This project uses the K-means clustering algorithm to perform RFM (Recency, Freq
 
 ## Source Data
 
-The dataset is sample superstore dataset on [Kaggle](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset).  It contains information about 9994 orders made by customers and a total of 21 columns, which include customer ID, order ID, order date, product ID, product name and sales. Other columns contain information such as shipping details, payment methods, and customer demographics.
+The dataset is sample superstore dataset on [Kaggle](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset).  It contains information about 9994 orders made by customers and a total of 21 columns, which include customer ID, order ID, order date, product ID, product name and sales. Other columns contain information such as shipping details, category, and customer demographics.
 
 ## Data Preprocessing
 
