@@ -25,6 +25,7 @@ The dataset is sample superstore dataset on [Kaggle](https://www.kaggle.com/data
 ## Results
 
 The "whales" cluster includes customers who order frequently and bring in a large amount of revenue. This cluster represents 35.44% of the total customer base in the dataset.
+
 ![alt text](https://github.com/QiujiaGuo/RFM-Analysis-for-Customer-Segmentation/blob/main/percentage%20for%20each%20cluster.png)
 
 The "promising" cluster  includes customers who order occasionally but still generate a decent amount of monetary sales. It represents 40.86% of the total customer base in the dataset.
