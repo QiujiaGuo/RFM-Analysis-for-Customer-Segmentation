@@ -9,7 +9,7 @@ The dataset is sample superstore dataset on [Kaggle](https://www.kaggle.com/data
 
 ## Data Preprocessing
 
-1.    Identify any missing or duplicated values (none for this project). 
+1.    Identify any missing or duplicate values (none for this project). 
 2.    Convert order_date and ship_date columns to datetime type.
 
 ## Workflow
