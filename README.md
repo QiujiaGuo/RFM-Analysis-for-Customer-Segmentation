@@ -20,6 +20,7 @@ The dataset is sample superstore dataset on [Kaggle](https://www.kaggle.com/data
 4.	 Use Elbow method to determine the optimal number of clusters for the K-means algorithm. 
 
 ![alt text](https://github.com/QiujiaGuo/RFM-Analysis-for-Customer-Segmentation/blob/main/Elbow%20Method.png)
+
 5. Perform K-means clustering with the number of clusters set to 3, based on the optimal number of clusters determined in step 4.
 6.	  Assign customer segments to one of three levels: "whales" for high-value customers, "lapsed" for low-value customers, and "promising" for medium-value customers.
 
