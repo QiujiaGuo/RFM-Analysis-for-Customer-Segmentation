@@ -1,6 +1,6 @@
 # RFM Customer Segmentation with K-Means
 
-This project uses the K-means clustering algorithm to perform RFM (Recency, Frequency, Monetary) analysis: when their last purchase was, how often they've purchased in the past and how much they've spent overall. The main objective is to segment customers based on the above three parameters and tailor marketing strategies for each segment.
+This project uses the K-means clustering algorithm to perform RFM (Recency, Frequency, Monetary) analysis: when customers' last purchase was, how often they've purchased in the past and how much they've spent overall. The main objective is to segment customers based on the above three parameters and tailor marketing strategies for each segment.
 
 
 ## Source Data
